@@ -239,6 +239,14 @@
       ]
     },
     {
+      "group": "Polkadot",
+      "pages": [
+        "data-catalog/polkadot/overview",
+        "data-catalog/polkadot/blocks",
+        "data-catalog/polkadot/extrinsics"
+      ]
+    },
+    {
       "group": "Solana",
       "pages": [
         "data-catalog/solana/overview",
